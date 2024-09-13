@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1710605657 source:d:\lfa\lab1\3. lambda_nfa\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<unordered_map>
+	<vector>
+	<set>
+	<map>
+

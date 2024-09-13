@@ -1,0 +1,7 @@
+DFA-ul minimal are urmatoarea forma: 
+(345) (345) a
+(1) (345) a
+(1) (345) b
+
+Grupa initiala este: (1)
+Starea finala este grupa: (345) 

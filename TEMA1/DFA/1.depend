@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1710504999 source:d:\lfa\lab1\1\main.cpp
+	<fstream>
+	<string>
+	<unordered_map>
+	<vector>
+	<map>
+

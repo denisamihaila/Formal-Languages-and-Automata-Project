@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1716718927 source:d:\lfa\tema3\2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+	<stack>
+	<tuple>
+
